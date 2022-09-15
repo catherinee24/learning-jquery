@@ -137,7 +137,7 @@ THAT'S IT YOU'RE READY TO WORK WITH jQuery UI LIBRARY !!! 🔸
 Clone this Repo
 
 ```
-git clone https://github.com/gab0071/learnig-jquery
+git clone https://github.com/catherinee24/learning-jquery
 cd learnig-jquery
 ```
 
