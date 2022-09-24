@@ -1,4 +1,4 @@
-# Learning jQuery? 🥇
+# Learning jQuery 🥇
 
 ## [Introduction jQuery]
 
